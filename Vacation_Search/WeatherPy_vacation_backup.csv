@@ -1,0 +1,349 @@
+,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+0,Ilulissat,GL,46.42,light rain,69.2167,-51.1,Hotel Icefiord
+1,Chuy,UY,66.99,broken clouds,-33.6971,-53.4616,La Fortaleza
+4,Hermanus,ZA,61.81,clear sky,-34.4187,19.2345,Steers
+5,Labuhan,ID,78.48,clear sky,-6.8844,112.2051,Rujak makMi
+8,Port Hedland,AU,62.65,scattered clouds,-20.3167,118.5667,The Esplanade Hotel
+9,Punta Arenas,CL,51.91,broken clouds,-53.15,-70.9167,Entre Ollas y Sartenes
+10,Takoradi,GH,78.49,broken clouds,4.8845,-1.7554,Paragon bar + grill
+11,Prado,BR,79.47,scattered clouds,-17.3411,-39.2208,Cabana Brazil com Z
+12,Cody,US,70.25,clear sky,44.5263,-109.0565,Buffalo Bill's Irma Hotel & Restaurant
+13,Taiyuan,CN,64.26,clear sky,37.8694,112.5603,Jinjiang Inn
+14,Carnarvon,AU,67.42,clear sky,-24.8667,113.6333,Sunsets Cafe
+15,Nabire,ID,75.29,light rain,-3.3667,135.4833,Kios Sejahtera
+16,San Patricio,US,86.16,few clouds,28.017,-97.5169,Hunt Brothers Pizza
+17,Ostashkov,RU,44.94,overcast clouds,57.1467,33.1075,Ukha
+19,Castro,BR,65.61,moderate rain,-24.7911,-50.0119,Kuk's Burger
+23,Avera,US,76.55,clear sky,33.194,-82.5271,RedOak BBQ
+25,Haines Junction,CA,37.35,overcast clouds,60.7522,-137.5108,Village Bakery and Deli
+26,Esperance,AU,52.09,clear sky,-33.8667,121.9,Subway
+28,Bethel,US,69.58,clear sky,41.3712,-73.414,Subway
+29,Hermanus,ZA,61.81,clear sky,-34.4187,19.2345,Steers
+31,Caohai,CN,50.94,overcast clouds,26.8661,104.2841,德克士
+32,Yulara,AU,57.18,scattered clouds,-25.2406,130.9889,Tali Wiru
+34,Okato,NZ,51.91,broken clouds,-39.2,173.8833,Okato Takeaways
+35,Porto Novo,BJ,80.42,overcast clouds,6.4965,2.6036,La Table Du Roi
+36,Victoria,HK,85.32,scattered clouds,22.2855,114.1577,Yung Kee Restaurant
+38,Rio Gallegos,AR,53.2,overcast clouds,-51.6226,-69.2181,La Marta | Night Fire
+40,Letlhakane,BW,84.11,clear sky,-21.4167,25.5833,Hungry Lion Lethlakane
+43,Norman Wells,CA,39.24,broken clouds,65.282,-126.8329,Yamouri Inn Ltd
+45,Busselton,AU,50.29,clear sky,-33.65,115.3333,Baudins
+46,Talnakh,RU,22.05,overcast clouds,69.4865,88.3972,"Chayhona northern, restaurant"
+48,Ushuaia,AR,51.42,light rain,-54.8,-68.3,Hotel Cap Polonio
+50,Atuona,PF,76.84,scattered clouds,-9.8,-139.0333,Restaurant Hoa Nui
+52,Hofn,IS,45.75,scattered clouds,64.2539,-15.2082,The Vatnajokull Region
+53,Sioux Lookout,CA,39.27,scattered clouds,50.1001,-91.917,Fifth Avenue Bar & Grill
+55,Hilo,US,80.28,broken clouds,19.7297,-155.09,Cafe Pesto Hilo Bay
+56,Yellowknife,CA,55.92,scattered clouds,62.456,-114.3525,Boston Pizza
+57,Faanui,PF,77.43,light rain,-16.4833,-151.75,Bora Bora Yacht Club
+58,Hervey Bay,AU,70.02,broken clouds,-25.2986,152.8535,HERVEY BAY SPORTS CLUB
+60,Eureka,US,56.93,broken clouds,40.8021,-124.1637,Lost Coast Brewery & Cafe
+61,Homer,US,37.78,clear sky,59.6425,-151.5483,Subway
+63,Faanui,PF,77.43,light rain,-16.4833,-151.75,Bora Bora Yacht Club
+64,Sitka,US,53.02,overcast clouds,57.0531,-135.33,Subway
+65,Bredasdorp,ZA,56.34,clear sky,-34.5322,20.0403,Checkers Bredasdorp
+68,Mataura,NZ,49.48,overcast clouds,-46.1927,168.8643,Falls Hotel
+69,Fortuna,US,56.66,broken clouds,40.5982,-124.1573,Double D Steak & Seafood
+70,Komsomolskiy,UZ,68.72,clear sky,40.4272,71.7189,"Kabob ""ILDAM FAYZ CHORVA"" x/k"
+71,Kloulklubed,PW,75.7,overcast clouds,7.0419,134.2556,Manta Restaurant
+72,Hilo,US,80.28,broken clouds,19.7297,-155.09,Cafe Pesto Hilo Bay
+73,Flinders,AU,58.17,heavy intensity rain,-34.5833,150.8552,Shellharbour Resort & Conference Centre
+74,Bengkulu,ID,75.36,overcast clouds,-3.8004,102.2655,Splash Hotel Bengkulu
+75,Kapaa,US,73.72,scattered clouds,22.0752,-159.319,Kountry Kitchen
+76,Pisco,PE,66.25,clear sky,-13.7,-76.2167,Restaurante As de Oro's
+77,Tuktoyaktuk,CA,32.0,light snow,69.4541,-133.0374,Grandma's Kitchen
+79,Cotonou,BJ,80.58,scattered clouds,6.3654,2.4183,Loving Food
+80,Lebu,CL,54.14,clear sky,-37.6167,-73.65,La Caleta Delivery
+81,Castro,BR,65.61,moderate rain,-24.7911,-50.0119,Kuk's Burger
+82,Ushuaia,AR,51.42,light rain,-54.8,-68.3,Hotel Cap Polonio
+83,Ushuaia,AR,51.42,light rain,-54.8,-68.3,Hotel Cap Polonio
+84,Burns Lake,CA,38.62,scattered clouds,54.2331,-125.7533,Dragon Palace Restaurant
+85,Rio Grande,BR,73.51,clear sky,-32.035,-52.0986,Padaria Gaúcha
+86,Barrow,US,26.62,mist,71.2906,-156.7887,Osaka Restaurant
+87,Souillac,MU,71.98,broken clouds,-20.5167,57.5167,Le Rochester
+88,Dandong,CN,57.13,clear sky,40.1292,124.3947,Xiao Peak Kourouguan
+89,Ponta Do Sol,PT,74.03,scattered clouds,32.6667,-17.1,Madeira
+90,Balkanabat,TM,79.7,clear sky,39.5108,54.3671,"Ресторан ""Güneş"""
+92,Kapaa,US,73.72,scattered clouds,22.0752,-159.319,Kountry Kitchen
+93,Cabedelo,BR,84.87,clear sky,-6.9811,-34.8339,Nena Doceria & Salgaderia
+95,Oxford,GB,54.18,broken clouds,51.7522,-1.256,Malmaison Oxford
+98,Bredasdorp,ZA,56.34,clear sky,-34.5322,20.0403,Checkers Bredasdorp
+99,Eureka,US,56.93,broken clouds,40.8021,-124.1637,Lost Coast Brewery & Cafe
+100,Port Alfred,ZA,62.19,overcast clouds,-33.5906,26.891,MyPond Hotel
+101,Mahebourg,MU,72.25,broken clouds,-20.4081,57.7,Nativ Lodge & Spa
+104,League City,US,86.16,clear sky,29.5075,-95.0949,Chinese Wok
+105,Palasa,IN,79.47,broken clouds,18.7667,84.4167,Keerthana's Kitchen
+107,Kodiak,US,35.11,few clouds,57.79,-152.4072,Subway
+108,Sechura,PE,75.47,scattered clouds,-5.5569,-80.8222,Puerto Madero - Pollos a la brasa y Parrillas
+110,Shieli,KZ,59.79,scattered clouds,44.1667,66.75,Khan Shatyr
+111,Bambous Virieux,MU,72.21,broken clouds,-20.3428,57.7575,La Case du Pêcheur
+112,Vardo,NO,48.18,overcast clouds,70.3705,31.1107,Nordpol Kro AS
+113,Hermanus,ZA,61.81,clear sky,-34.4187,19.2345,Steers
+114,Georgetown,MY,81.9,few clouds,5.4112,100.3354,JEN Penang Georgetown by Shangri-La
+115,Pandan,PH,79.52,overcast clouds,14.0453,124.1694,Roque Sales
+116,Hasaki,JP,66.6,overcast clouds,35.7333,140.8333,そば処やぶ
+118,Manakara,MG,68.86,clear sky,-22.1333,48.0167,Safarie
+119,Kailaras,IN,81.82,clear sky,26.3167,77.6167,Chotibala Restroant
+120,Lasa,IT,58.08,broken clouds,46.6166,10.7002,Gasthof Zur Sonne
+121,Hilo,US,80.28,broken clouds,19.7297,-155.09,Cafe Pesto Hilo Bay
+123,Rurrenabaque,BO,89.49,scattered clouds,-14.4413,-67.5278,"Restaurant ""MOSITA"""
+124,Andijon,UZ,69.08,clear sky,40.7821,72.3442,102A Restarani
+125,Hermanus,ZA,61.81,clear sky,-34.4187,19.2345,Steers
+126,Fortuna,US,56.66,broken clouds,40.5982,-124.1573,Double D Steak & Seafood
+127,Carutapera,BR,87.19,scattered clouds,-1.195,-46.02,Pizzaria e Disk Pizza Caru
+129,Constitucion,CL,61.07,clear sky,-35.3333,-72.4167,"La Familia, Local de Empanadas"
+130,Thompson,CA,44.76,broken clouds,55.7435,-97.8558,Tim Hortons
+131,Castro,BR,65.61,moderate rain,-24.7911,-50.0119,Kuk's Burger
+133,Hobart,AU,49.26,scattered clouds,-42.8794,147.3294,Hotel Grand Chancellor Hobart
+135,Santa Maria,BR,74.5,clear sky,-29.6842,-53.8069,Santa Mania Super Pizzas
+136,Scarborough,GB,56.77,overcast clouds,54.2797,-0.4044,The Grand Hotel Scarborough
+137,Mataura,NZ,49.48,overcast clouds,-46.1927,168.8643,Falls Hotel
+139,Torbay,CA,75.76,broken clouds,47.6666,-52.7314,Mary Brown's Chicken & Taters
+140,Hobart,AU,49.26,scattered clouds,-42.8794,147.3294,Hotel Grand Chancellor Hobart
+141,East London,ZA,65.34,light rain,-33.0153,27.9116,KFC Union
+143,Arraial Do Cabo,BR,78.76,scattered clouds,-22.9661,-42.0278,Hotel Pousada Caminho do Sol
+144,Camacha,PT,71.02,scattered clouds,33.0833,-16.3333,Stick Bar
+145,Saint-Philippe,RE,71.19,few clouds,-21.3585,55.7679,La bicyclette gourmande
+146,Busselton,AU,50.29,clear sky,-33.65,115.3333,Baudins
+147,Bathsheba,BB,84.06,scattered clouds,13.2167,-59.5167,Round House
+148,Kinsale,IE,60.24,broken clouds,51.7075,-8.5306,Trident Hotel Kinsale
+150,Kapaa,US,73.72,scattered clouds,22.0752,-159.319,Kountry Kitchen
+152,Lata,PT,70.92,clear sky,40.1629,-8.3327,Cheiro Guloso
+153,Springbok,ZA,57.7,broken clouds,-29.6643,17.8865,KFC Springbok
+154,Havre-Saint-Pierre,CA,61.16,scattered clouds,50.2334,-63.5986,La Promenade
+155,Makakilo City,US,77.32,clear sky,21.3469,-158.0858,Zippy's Kapolei
+156,Bredasdorp,ZA,56.34,clear sky,-34.5322,20.0403,Checkers Bredasdorp
+157,Lompoc,US,57.61,mist,34.6391,-120.4579,Subway
+158,Bredasdorp,ZA,56.34,clear sky,-34.5322,20.0403,Checkers Bredasdorp
+159,Jamestown,US,55.04,overcast clouds,42.097,-79.2353,Forte
+160,Hobyo,SO,77.88,broken clouds,5.3505,48.5268,Green House
+161,Esperance,AU,52.09,clear sky,-33.8667,121.9,Subway
+162,Kathu,TH,85.69,overcast clouds,7.9178,98.3332,Serenity Lakeside Resort
+165,Yeppoon,AU,67.78,light rain,-23.1333,150.7333,Thai Tanee Yeppoon
+166,Ulaangom,MN,56.97,broken clouds,49.9811,92.0667,Tobu center
+167,Esil,KZ,38.12,overcast clouds,51.9556,66.4042,Restoran Safari
+168,Punta Arenas,CL,51.91,broken clouds,-53.15,-70.9167,Entre Ollas y Sartenes
+169,Kodiak,US,35.11,few clouds,57.79,-152.4072,Subway
+170,Vila Franca Do Campo,PT,73.2,broken clouds,37.7167,-25.4333,Hot dogs VR
+171,Atuona,PF,76.84,scattered clouds,-9.8,-139.0333,Restaurant Hoa Nui
+172,Necochea,AR,56.71,clear sky,-38.5473,-58.7368,Quedate Pancho Fast Food
+174,Avarua,CK,75.25,overcast clouds,-21.2078,-159.775,Tamarind House Restaurant & Bar
+176,Ushuaia,AR,51.42,light rain,-54.8,-68.3,Hotel Cap Polonio
+177,Minnedosa,CA,46.96,broken clouds,50.2453,-99.8436,Corner Stone Grill
+178,Puri,IN,81.12,overcast clouds,19.8,85.85,Hotel Holiday Resort
+180,Arraial Do Cabo,BR,78.76,scattered clouds,-22.9661,-42.0278,Hotel Pousada Caminho do Sol
+181,Foso,GH,76.59,moderate rain,5.7012,-1.2866,wonder's catering service
+182,Vada,NL,51.04,light rain,51.97,5.6667,"Wicc, Wageningen International Congress Centre B.V"
+183,Punta Arenas,CL,51.91,broken clouds,-53.15,-70.9167,Entre Ollas y Sartenes
+184,Jamestown,US,55.04,overcast clouds,42.097,-79.2353,Forte
+185,Kasungu,MW,74.08,few clouds,-13.0333,33.4833,FATIZ'S Restaurant
+186,Kendari,ID,75.54,overcast clouds,-3.945,122.4989,Roti Imran Bakery
+188,Busselton,AU,50.29,clear sky,-33.65,115.3333,Baudins
+190,Marawi,PH,68.81,overcast clouds,7.9986,124.2928,Crossroads Diner
+191,Griffith,US,58.46,broken clouds,41.5284,-87.4237,Squigi's Pizza of Griffith
+192,Ushuaia,AR,51.42,light rain,-54.8,-68.3,Hotel Cap Polonio
+193,Thompson,CA,44.76,broken clouds,55.7435,-97.8558,Tim Hortons
+194,Busselton,AU,50.29,clear sky,-33.65,115.3333,Baudins
+195,Ushuaia,AR,51.42,light rain,-54.8,-68.3,Hotel Cap Polonio
+196,Lagoa,PT,69.4,few clouds,39.05,-27.9833,Green Light - Restaurant
+197,Camocim,BR,88.79,clear sky,-2.9022,-40.8411,O Euclides Pizzaria e Churrascaria
+199,Vygonichi,RU,48.31,light intensity drizzle,53.0985,34.0673,Stolovaya
+200,Mataura,NZ,49.48,overcast clouds,-46.1927,168.8643,Falls Hotel
+201,Puerto Baquerizo Moreno,EC,68.99,scattered clouds,-0.9,-89.6,Calypso
+202,Mar Del Plata,AR,59.95,clear sky,-38.0023,-57.5575,Casa de Sushi
+203,Khorramshahr,IR,89.56,clear sky,30.4397,48.1664,فلافل احمد
+204,Arraial Do Cabo,BR,78.76,scattered clouds,-22.9661,-42.0278,Hotel Pousada Caminho do Sol
+206,East London,ZA,65.34,light rain,-33.0153,27.9116,KFC Union
+207,Punta Arenas,CL,51.91,broken clouds,-53.15,-70.9167,Entre Ollas y Sartenes
+209,Faanui,PF,77.43,light rain,-16.4833,-151.75,Bora Bora Yacht Club
+210,Mataura,NZ,49.48,overcast clouds,-46.1927,168.8643,Falls Hotel
+211,Port Alfred,ZA,62.19,overcast clouds,-33.5906,26.891,MyPond Hotel
+212,Richards Bay,ZA,72.1,scattered clouds,-28.783,32.0377,JAFFLE JIM RICHARDS BAY
+213,Cap-Aux-Meules,CA,62.65,light intensity shower rain,47.3821,-61.8597,Château Madelinot
+215,Viedma,AR,64.47,clear sky,-40.8135,-62.9967,Sahara Pizza y Pasta
+216,Halifax,CA,64.45,shower rain,44.6453,-63.5724,Atlantica Hotel Halifax
+217,Georgetown,MY,81.9,few clouds,5.4112,100.3354,JEN Penang Georgetown by Shangri-La
+219,Talnakh,RU,22.05,overcast clouds,69.4865,88.3972,"Chayhona northern, restaurant"
+221,Chuy,UY,66.99,broken clouds,-33.6971,-53.4616,La Fortaleza
+222,Hithadhoo,MV,79.43,overcast clouds,-0.6,73.0833,Super Scoop Restaurant
+224,New Norfolk,AU,48.92,overcast clouds,-42.7826,147.0587,Subway
+225,Hobart,AU,49.26,scattered clouds,-42.8794,147.3294,Hotel Grand Chancellor Hobart
+226,Barrow,US,26.62,mist,71.2906,-156.7887,Osaka Restaurant
+229,Barrow,US,26.62,mist,71.2906,-156.7887,Osaka Restaurant
+230,Socastee,US,77.09,clear sky,33.6835,-78.9984,Papa John's Pizza
+232,Hithadhoo,MV,79.43,overcast clouds,-0.6,73.0833,Super Scoop Restaurant
+233,Mataura,NZ,49.48,overcast clouds,-46.1927,168.8643,Falls Hotel
+234,Hamilton,US,64.65,broken clouds,39.1834,-84.5333,Da'Lish Treats
+235,Thompson,CA,44.76,broken clouds,55.7435,-97.8558,Tim Hortons
+236,Bintulu,MY,77.41,few clouds,3.1667,113.0333,Sushi Tie Bintulu
+237,Ushuaia,AR,51.42,light rain,-54.8,-68.3,Hotel Cap Polonio
+239,Port Elizabeth,ZA,66.09,moderate rain,-33.918,25.5701,"La Fiesta Take Aways ""THE BIG TASTE"""
+240,Ushuaia,AR,51.42,light rain,-54.8,-68.3,Hotel Cap Polonio
+241,Gabu,GW,84.09,light rain,12.2833,-14.2167,Restraunt CIJ
+245,Salalah,OM,78.91,clear sky,17.0151,54.0924,MANGALYA Sk Restaurant
+246,High Prairie,CA,65.82,broken clouds,55.4334,-116.4858,The Boondocks
+247,Bhum,IN,76.51,overcast clouds,18.4667,75.6667,Gajanan Hotel
+248,Jamestown,US,55.04,overcast clouds,42.097,-79.2353,Forte
+249,Tuktoyaktuk,CA,32.0,light snow,69.4541,-133.0374,Grandma's Kitchen
+250,Betanzos,ES,67.12,broken clouds,43.2804,-8.2147,Adega do Pino
+251,Punta Arenas,CL,51.91,broken clouds,-53.15,-70.9167,Entre Ollas y Sartenes
+252,Punta Arenas,CL,51.91,broken clouds,-53.15,-70.9167,Entre Ollas y Sartenes
+253,Tczew,PL,58.44,overcast clouds,54.0924,18.7779,Imbiss Istanbul Kebab
+254,Mataura,NZ,49.48,overcast clouds,-46.1927,168.8643,Falls Hotel
+255,Sitka,US,53.02,overcast clouds,57.0531,-135.33,Subway
+258,Caucaia,BR,85.95,clear sky,-3.7361,-38.6531,Puro.Açaí Caucaia
+259,Yellowknife,CA,55.92,scattered clouds,62.456,-114.3525,Boston Pizza
+260,Tateyama,JP,72.1,overcast clouds,34.9833,139.8667,Tateyama Shokudou
+261,Mawlamyine,MM,77.05,overcast clouds,16.4914,97.6256,နှင်းပုလဲ ရွှေမျက်မှန် ထမင်းပေါင်း
+263,Bambous Virieux,MU,72.21,broken clouds,-20.3428,57.7575,La Case du Pêcheur
+264,Cape Town,ZA,64.09,few clouds,-33.9258,18.4232,Taj Cape Town
+266,Port Elizabeth,ZA,66.09,moderate rain,-33.918,25.5701,"La Fiesta Take Aways ""THE BIG TASTE"""
+267,Guerrero Negro,MX,79.95,clear sky,27.9769,-114.0611,Loncheria Reyna
+268,Hasaki,JP,66.6,overcast clouds,35.7333,140.8333,そば処やぶ
+269,Saint George,US,80.8,scattered clouds,37.1041,-113.5841,Painted Pony Restaurant
+270,Ushuaia,AR,51.42,light rain,-54.8,-68.3,Hotel Cap Polonio
+271,Petropavlovsk-Kamchatskiy,RU,43.39,broken clouds,53.0452,158.6483,Stolovka
+272,Kikwit,CD,79.52,broken clouds,-5.041,18.8162,RESTAURANT DIDI
+273,Bathsheba,BB,84.06,scattered clouds,13.2167,-59.5167,Round House
+274,Mataura,NZ,49.48,overcast clouds,-46.1927,168.8643,Falls Hotel
+275,Yashkul,RU,68.5,overcast clouds,46.1711,45.3435,Shaverma
+277,Pingyin,CN,65.26,overcast clouds,36.2831,116.4453,Shanheyuan
+278,Hobart,AU,49.26,scattered clouds,-42.8794,147.3294,Hotel Grand Chancellor Hobart
+279,Huarmey,PE,68.04,broken clouds,-10.0681,-78.1522,Kissas Pizzeria
+280,Jamestown,US,55.04,overcast clouds,42.097,-79.2353,Forte
+281,Shimoda,JP,69.1,overcast clouds,34.6667,138.95,Sushi Take
+283,Ushuaia,AR,51.42,light rain,-54.8,-68.3,Hotel Cap Polonio
+284,Mataura,NZ,49.48,overcast clouds,-46.1927,168.8643,Falls Hotel
+286,Busselton,AU,50.29,clear sky,-33.65,115.3333,Baudins
+287,Balkanabat,TM,79.7,clear sky,39.5108,54.3671,"Ресторан ""Güneş"""
+288,Vikhorevka,RU,33.39,overcast clouds,56.1201,101.1636,"Gril'-Bar ""Ogon'"""
+289,Avarua,CK,75.25,overcast clouds,-21.2078,-159.775,Tamarind House Restaurant & Bar
+290,Hasaki,JP,66.6,moderate rain,35.7333,140.8333,そば処やぶ
+291,Saint-Philippe,RE,71.19,few clouds,-21.3585,55.7679,La bicyclette gourmande
+292,Yellowknife,CA,55.92,scattered clouds,62.456,-114.3525,Boston Pizza
+294,Avera,US,77.56,clear sky,33.194,-82.5271,RedOak BBQ
+295,East London,ZA,65.34,light rain,-33.0153,27.9116,KFC Union
+296,Amuntai,ID,73.53,scattered clouds,-2.4177,115.2494,Warung Bubur Sup Ayam Dan Agen Pop Corn Rasa
+297,Swift Current,CA,63.41,clear sky,50.2834,-107.8014,Modern Family Restaurant
+299,Atuona,PF,76.84,scattered clouds,-9.8,-139.0333,Restaurant Hoa Nui
+300,Bethel,US,70.02,broken clouds,41.3712,-73.414,Subway
+301,Mataura,NZ,49.48,overcast clouds,-46.1927,168.8643,Falls Hotel
+302,Cap Malheureux,MU,72.46,clear sky,-19.9842,57.6142,Amigo Restaurant
+303,Bredasdorp,ZA,56.34,clear sky,-34.5322,20.0403,Checkers Bredasdorp
+304,Vaini,TO,66.36,few clouds,-21.2,-175.2,'Ofeina Restaurant
+307,Komsomolskiy,UZ,68.72,clear sky,40.4272,71.7189,"Kabob ""ILDAM FAYZ CHORVA"" x/k"
+308,Georgetown,MY,81.9,few clouds,5.4112,100.3354,JEN Penang Georgetown by Shangri-La
+309,Aldan,RU,25.83,overcast clouds,58.6031,125.3894,Verona
+310,Grand Island,US,74.23,clear sky,40.925,-98.342,McDonald's
+311,Ushuaia,AR,51.42,light rain,-54.8,-68.3,Hotel Cap Polonio
+312,Tabora,TZ,83.7,overcast clouds,-5.0167,32.8,Grand Penta Hotel
+313,Arraial Do Cabo,BR,78.76,scattered clouds,-22.9661,-42.0278,Hotel Pousada Caminho do Sol
+315,Paso De Patria,AR,83.07,few clouds,-27.2454,-58.5454,Comedor paso de patria
+316,Darhan,MN,44.11,overcast clouds,49.4867,105.9228,Amyy cafe
+318,Hobart,AU,49.26,scattered clouds,-42.8794,147.3294,Hotel Grand Chancellor Hobart
+320,Hobart,AU,49.26,scattered clouds,-42.8794,147.3294,Hotel Grand Chancellor Hobart
+321,Kavieng,PG,81.7,scattered clouds,-2.5744,150.7967,Hot Rooster
+322,Eyl,SO,79.0,broken clouds,7.9803,49.8164,Baar-Guduud Restaurant
+323,Chuy,UY,66.99,broken clouds,-33.6971,-53.4616,La Fortaleza
+327,Kodiak,US,35.11,few clouds,57.79,-152.4072,Subway
+328,Mataura,NZ,49.48,overcast clouds,-46.1927,168.8643,Falls Hotel
+331,Kathu,TH,85.69,overcast clouds,7.9178,98.3332,Serenity Lakeside Resort
+332,Tasiilaq,GL,35.82,overcast clouds,65.6145,-37.6368,Café of The ice Time
+333,Mogadishu,SO,78.13,light rain,2.0371,45.3438,AlBAiK
+334,Hermanus,ZA,61.81,clear sky,-34.4187,19.2345,Steers
+336,Bredasdorp,ZA,56.34,clear sky,-34.5322,20.0403,Checkers Bredasdorp
+337,Tasiilaq,GL,35.82,overcast clouds,65.6145,-37.6368,Café of The ice Time
+338,Mahebourg,MU,72.25,broken clouds,-20.4081,57.7,Nativ Lodge & Spa
+339,Dingle,PH,75.43,moderate rain,10.9995,122.6711,Franks
+340,Petropavlovsk-Kamchatskiy,RU,43.39,broken clouds,53.0452,158.6483,Stolovka
+341,Cabedelo,BR,84.87,clear sky,-6.9811,-34.8339,Nena Doceria & Salgaderia
+342,Thessalon,CA,53.89,overcast clouds,46.2501,-83.5666,Sunset Beach Family Restaurant
+343,Kaitangata,NZ,47.77,overcast clouds,-46.2817,169.8464,Crescent Bar & Grill
+345,Yellowknife,CA,55.92,scattered clouds,62.456,-114.3525,Boston Pizza
+346,Harbour Breton,CA,61.0,overcast clouds,47.4833,-55.7983,The Elliott Premises - Dockside Café
+347,Mehamn,NO,46.35,broken clouds,71.0357,27.8492,Nordic Safari AS
+348,Souillac,MU,71.98,broken clouds,-20.5167,57.5167,Le Rochester
+349,Yulara,AU,57.18,scattered clouds,-25.2406,130.9889,Tali Wiru
+350,Lagoa,PT,69.4,few clouds,39.05,-27.9833,Green Light - Restaurant
+352,Antalaha,MG,66.97,clear sky,-14.9003,50.2788,Lotus
+353,Mehamn,NO,46.35,broken clouds,71.0357,27.8492,Nordic Safari AS
+354,Mildura,AU,51.08,broken clouds,-34.2,142.15,Early Australian Motor Inn
+355,Ushuaia,AR,51.42,light rain,-54.8,-68.3,Hotel Cap Polonio
+356,Ushuaia,AR,51.42,light rain,-54.8,-68.3,Hotel Cap Polonio
+358,Punta Arenas,CL,51.91,broken clouds,-53.15,-70.9167,Entre Ollas y Sartenes
+359,Freeport,US,72.01,broken clouds,40.6576,-73.5832,Domino's Pizza
+360,Mantua,IT,72.64,scattered clouds,45.1667,10.7833,La Bottega Della Pizza
+363,Uitenhage,ZA,65.41,overcast clouds,-33.7576,25.3971,Debonairs Pizza
+364,Bluff,NZ,49.8,overcast clouds,-46.6,168.3333,"Bluff Cafe, Kawhe"
+366,Carnarvon,AU,67.42,clear sky,-24.8667,113.6333,Sunsets Cafe
+367,Beatrice,US,73.49,clear sky,40.2681,-96.747,Subway
+368,Nikolskoye,RU,51.69,broken clouds,59.7035,30.7861,Pro Bulki
+369,Yenagoa,NG,73.92,overcast clouds,4.9247,6.2642,Enterprise Bank POS De Jakes Fast Food & Resturant
+370,Kapaa,US,73.72,scattered clouds,22.0752,-159.319,Kountry Kitchen
+371,Kudahuvadhoo,MV,82.92,overcast clouds,2.6708,72.8944,Palmera kitchen and restaurant
+372,Souillac,MU,71.98,broken clouds,-20.5167,57.5167,Le Rochester
+374,Vaini,TO,66.36,few clouds,-21.2,-175.2,'Ofeina Restaurant
+375,New Norfolk,AU,48.92,overcast clouds,-42.7826,147.0587,Subway
+376,Xinmin,CN,61.97,clear sky,41.9908,122.8253,Weisheng Seafood
+377,Lagoa,PT,69.4,few clouds,39.05,-27.9833,Green Light - Restaurant
+378,Boyolangu,ID,73.38,broken clouds,-8.1181,111.8935,Martabak Bee Java Boyolangu
+379,Punta Arenas,CL,51.91,broken clouds,-53.15,-70.9167,Entre Ollas y Sartenes
+380,Hobart,AU,49.26,scattered clouds,-42.8794,147.3294,Hotel Grand Chancellor Hobart
+381,Vaini,TO,66.36,few clouds,-21.2,-175.2,'Ofeina Restaurant
+388,Ridgecrest,US,87.39,clear sky,35.6225,-117.6709,Golden Ox
+389,Kodiak,US,35.11,few clouds,57.79,-152.4072,Subway
+390,Hamilton,US,64.49,clear sky,39.1834,-84.5333,Da'Lish Treats
+391,Atuona,PF,76.84,scattered clouds,-9.8,-139.0333,Restaurant Hoa Nui
+392,Elk Plain,US,64.78,clear sky,47.0532,-122.3976,Subway
+394,Hilo,US,80.28,scattered clouds,19.7297,-155.09,Cafe Pesto Hilo Bay
+395,Vaini,TO,66.36,few clouds,-21.2,-175.2,'Ofeina Restaurant
+398,New Norfolk,AU,48.92,overcast clouds,-42.7826,147.0587,Subway
+399,Kapaa,US,73.72,scattered clouds,22.0752,-159.319,Kountry Kitchen
+400,Hobart,AU,49.26,scattered clouds,-42.8794,147.3294,Hotel Grand Chancellor Hobart
+401,Torbay,CA,75.76,broken clouds,47.6666,-52.7314,Mary Brown's Chicken & Taters
+402,Punta Arenas,CL,51.91,broken clouds,-53.15,-70.9167,Entre Ollas y Sartenes
+403,Barrow,US,26.62,mist,71.2906,-156.7887,Osaka Restaurant
+405,Kamskiye Polyany,RU,40.01,overcast clouds,55.4307,51.4171,Anime
+406,Santa Maria,BR,74.5,clear sky,-29.6842,-53.8069,Santa Mania Super Pizzas
+408,Camacha,PT,71.02,scattered clouds,33.0833,-16.3333,Stick Bar
+409,Atuona,PF,76.84,scattered clouds,-9.8,-139.0333,Restaurant Hoa Nui
+410,New Norfolk,AU,48.92,overcast clouds,-42.7826,147.0587,Subway
+411,Hobart,AU,49.26,scattered clouds,-42.8794,147.3294,Hotel Grand Chancellor Hobart
+412,Tabou,CI,77.61,light rain,4.423,-7.3528,L'assiette d'Afrique
+413,East London,ZA,65.34,light rain,-33.0153,27.9116,KFC Union
+414,Radviliskis,LT,51.85,few clouds,55.8167,23.5333,"Puriena, viešbutis-restoranas, Aloyzo Grigaliūno transportas"
+415,Ushuaia,AR,51.42,light rain,-54.8,-68.3,Hotel Cap Polonio
+416,Koulamoutou,GA,72.52,light rain,-1.1303,12.4736,Fast-Food
+417,Saint-Augustin,CA,62.22,overcast clouds,51.226,-58.6502,Le Restaurant des Soeurs
+418,Atuona,PF,76.84,scattered clouds,-9.8,-139.0333,Restaurant Hoa Nui
+419,Vila Franca Do Campo,PT,73.2,broken clouds,37.7167,-25.4333,Hot dogs VR
+420,Phangnga,TH,80.64,light rain,8.4509,98.5298,Krua Pantharee
+421,Rousinov,CZ,55.9,few clouds,49.2013,16.8822,Restaurace Nová Záložna
+422,Barrow,US,26.62,mist,71.2906,-156.7887,Osaka Restaurant
+423,Mataura,NZ,49.48,overcast clouds,-46.1927,168.8643,Falls Hotel
+425,Avarua,CK,75.25,overcast clouds,-21.2078,-159.775,Tamarind House Restaurant & Bar
+427,Lagoa,PT,69.4,few clouds,39.05,-27.9833,Green Light - Restaurant
+428,Punta Arenas,CL,51.91,broken clouds,-53.15,-70.9167,Entre Ollas y Sartenes
+429,Barrow,US,26.62,mist,71.2906,-156.7887,Osaka Restaurant
+430,Kavaratti,IN,81.79,scattered clouds,10.5669,72.642,Cafe de Saina
+431,Hokitika,NZ,51.82,light rain,-42.7167,170.9667,Beachfront Hotel Hokitika
+433,Mataura,NZ,49.48,overcast clouds,-46.1927,168.8643,Falls Hotel
+435,Jamestown,US,55.04,overcast clouds,42.097,-79.2353,Forte
+436,Quatre Cocos,MU,72.09,scattered clouds,-20.2078,57.7625,Kissoon Store
+438,Quatre Cocos,MU,72.09,scattered clouds,-20.2078,57.7625,Kissoon Store
+440,Atuona,PF,76.84,scattered clouds,-9.8,-139.0333,Restaurant Hoa Nui
+441,Qingyuan,CN,84.18,broken clouds,23.7,113.0333,咖啡猫餐饮连锁旗舰店
+442,Georgetown,MY,81.9,few clouds,5.4112,100.3354,JEN Penang Georgetown by Shangri-La
+443,Palafrugell,ES,70.63,overcast clouds,41.9174,3.1631,CAN DURAN - Av Generalitat
+444,Thompson,CA,50.32,scattered clouds,55.7435,-97.8558,Tim Hortons
+446,Eganville,CA,57.51,light rain,45.5334,-77.0994,Subway
+447,Aguilas,ES,76.98,clear sky,37.4063,-1.5829,Restaurante El Faro
+449,Vardo,NO,48.18,overcast clouds,70.3705,31.1107,Nordpol Kro AS
+450,La Romana,DO,86.7,few clouds,18.4273,-68.9728,Punto Italia
+451,Port-Gentil,GA,76.96,light rain,-0.7193,8.7815,Pro Ps Sandwich
+452,Punta Arenas,CL,51.91,broken clouds,-53.15,-70.9167,Entre Ollas y Sartenes
+453,Upata,VE,82.0,scattered clouds,8.0086,-62.3989,Traki Upata
+455,Hervey Bay,AU,70.02,broken clouds,-25.2986,152.8535,HERVEY BAY SPORTS CLUB
+456,Nome,US,41.02,light rain,64.5011,-165.4064,Subway
+458,Hobart,AU,49.26,scattered clouds,-42.8794,147.3294,Hotel Grand Chancellor Hobart
+460,Havelock,US,75.97,overcast clouds,34.8791,-76.9013,Little Caesars Pizza
